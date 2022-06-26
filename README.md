@@ -1,27 +1,37 @@
-# JogoDaVelhaAngular
+# Jogo da velha Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+<b> Este projeto foi criado com Angular CLI 13.2.3 para colocar em prática o aprendizado sobre serviços, componentes, módulos e injeção de dependência do Angular </b>
 
-## Development server
+# Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Este projeto consiste em uma aplicação frontend, onde foi criado uma lógica de um jogo da velha aplicando os conceitos de javascript, typescript e Angular 13.
 
-## Code scaffolding
+# Layout do projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![API-RickAndMorty](1.png)
 
-## Build
+# Tecnologias utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* HTML
+* SASS 
+* Javascript
+* Typescript 4.5.2
+* Angular CLI 13.2.6
+* Node
+* NPM
 
-## Running unit tests
+# Iniciando o projeto
+Para iniciar a aplicação execute o seguinte comando no terminal dentro da pasta jogo=da-velha
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```shell script
+ng serve
+```
 
-## Running end-to-end tests
+# Autor
+<b>Thallyta Macedo Carvalho de Castro</b>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Linkedin: https://www.linkedin.com/in/thallyta-castro/
 
-## Further help
+Medium: https://medium.com/@thallyta-castro-cv
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+email: contato@thallytacastro.com.br
