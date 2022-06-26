@@ -8,7 +8,7 @@ Este projeto consiste em uma aplicação frontend, onde foi criado uma lógica d
 
 # Layout do projeto
 
-![API-RickAndMorty](1.png)
+![Jogo da Velha](jogo-da-velha.png)
 
 # Tecnologias utilizadas
 
